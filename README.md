@@ -1,4 +1,4 @@
-# IMBD Data Analytics with Python
+# IMDB Data Analytics with Python
 ## Guia de Análise Exploratória de Dados com Python e Linguagem SQL
 
 Neste Mini-Projeto vamos apresentar um guia básico de análise exploratória de dados usando Linguagem Python, Linguagem SQL e Banco de Dados SQLite. Usaremos dados reais disponíveis publicamente, dados sobre filmes no IMDB.
