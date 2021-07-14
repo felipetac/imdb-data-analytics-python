@@ -33,7 +33,7 @@ Na pasta raiz do projeto execute:
 # inicializando pasta de depêndencias
 poetry shell
 
-# instalado dependências do projeto
+# instalando dependências do projeto
 poetry install
 ```
 
