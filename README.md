@@ -42,3 +42,11 @@ Na pasta raiz do projeto execute:
 ```sh
 jupyter notebook
 ```
+
+## Abrindo Notebook
+
+- No jupyter clique no arquivo: **imdb-data-analytcs.ipynb**
+
+## Preview do Notebook
+
+- Clique aqui: [imdb-data-analytcs.ipynb](https://github.com/felipetac/imdb-data-analytics-python/blob/main/imdb-data-analytics.ipynb)
